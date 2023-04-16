@@ -16,34 +16,17 @@ a:hover{
     color: black;
 }
 
+img{
+   height: 400px; 
+}
+
 div{
-    margin: 5px;
+    margin: 100px;
     border: 7px solid blue;
     border-radius: 5px;
-    margin-left: 527px;
-    margin-right: 150px;
+    text-align: center;
 }
-div{
-    margin: 5px;
-    border: 7px solid blue;
-    border-radius: 5px;
-    margin-left: 527px;
-    margin-right: 150px;
-}
-div{
-    margin: 5px;
-    border: 7px solid blue;
-    border-radius: 5px;
-    margin-left: 527px;
-    margin-right: 150px;
-}
-div{
-    margin: 5px;
-    border: 7px solid blue;
-    border-radius: 5px;
-    margin-left: 527px;
-    margin-right: 150px;
-}
+
 footer{
     background-color: rgba(45, 131, 230, 0.574);
     padding: 15px;
